@@ -1,5 +1,5 @@
 {
-    "name": "jeremykenedy/laravel-email-database-log",
+    "name": "akashwttech/laravel-email-database-log",
     "description": "A database logger for all outgoing emails sent by your Laravel application.",
     "keywords": ["laravel", "markdown", "mail"],
     "license": "MIT",
@@ -21,7 +21,7 @@
     ],
     "require": {
         "php": "^8.0.2|^8.1|^8.2",
-        "illuminate/support": "^8.5|^9.0|^10.0",
+        "illuminate/support": "^8.5|^9.0|^10.0|^11.0|^12.0",
         "doctrine/dbal": "^3.6",
         "nesbot/carbon": "^2.66"
     },
